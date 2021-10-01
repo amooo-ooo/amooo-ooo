@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @amooo-ooo
-- 👀 I’m interested in Python, HTML, CSS, Batch, C#
-- 🌱 I’m currently learning all of the above + R
+- 👋 Tēnā koe, I’m Amor a highschool student in New Zealand
+- 🌱 I’m interested and currently learning Python, HTML, CSS, Batch, C# and R
 - 📫 Feel free to add me on discord: raspberry#9015
 
 <!---
