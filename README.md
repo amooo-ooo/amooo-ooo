@@ -1,5 +1,5 @@
 # Hello!
-I'm Amor, and I'm a senior secondary student interested in software development and anything to do with technology and design. At the moment, most of my work involves full-stack development. You will often see me working with languages including Python, JavaScript and C++. Below are a few of the technologies I frequently use for projects.
+I'm Amor, a self-taught, senior secondary student interested in software development and anything to do with technology and design. At the moment, most of my work involves full-stack development. You will often see me working with languages including Python, JavaScript and C++. Below are a few of the technologies I frequently use for projects.
 ##
 
 <img align="left" src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/python.svg?" width=28>
