@@ -1,21 +1,33 @@
-# Hello!
-I'm Amor, a self-taught, senior secondary student interested in software development and anything to do with technology and design. At the moment, most of my work involves full-stack development. You will often see me working with languages including Python, JavaScript and C++. Below are a few of the technologies I frequently use for projects.
-##
+# Greetings, fellow wanderer!
+```woah, woah, what are you looking for? you've gone too far, go back man. 
+~
+> cowsay "I'm Amor"
+ ___________
+< I'm Amor! >
+ -----------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+I'm a first-year student studying Computer Science and Data Science at the University of Canterbury. 
 
-<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/python.svg?" width=28>
-<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/django.svg?" width=28>
-<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/svelte.svg?" width=28>
-<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/react.svg?" width=30>
-<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/docker.svg?" width=30>
-<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/flask.svg?" width=30>
-<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/sass.svg?" width=30>
-<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/php.svg" width=30>
-<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/bootstrap.svg?" width=30>
-<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/javascript.svg" width=28>
-<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/typescript.svg" width=28>
-<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/html.svg" width=28>
-<img align="left" src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/cplusplus.svg?" width=28>
-<!---
-amooo-ooo/amooo-ooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- I do full-stack and silly web-testing stuff. 
+- Proficient in Python, experienced in TypeScript, Java, SQL and learning C++ and Go.
+- Unrelated, but I touch grass and volunteer in a few organisations.
+
+
+<!--
+<img src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/python.svg" align="left" width=30>
+<img src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/typescript.svg" align="left" width=30>
+<img src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/java.svg" align="left" width=30>
+<img src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/sql.svg" align="left" width=30>
+<img src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/go.svg" align="left" width=30>
+<img src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/cpp.svg" align="left" width=30>
+<img src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/react.svg" align="left" width=30>
+<img src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/svelte.svg" align="left" width=30>
+<img src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/vue.svg" align="left" width=30>
+<img src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/python.svg" align="left" width=30>
+--> 
