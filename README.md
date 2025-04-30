@@ -1,5 +1,5 @@
 # Greetings, fellow wanderer!
-```woah, woah, what are you looking for? you've gone too far, go back man. 
+```woah, woah, what are you looking for? you've gone too far 
 ~
 > cowsay "I'm Amor"
  ___________
@@ -11,10 +11,10 @@
                 ||----w |
                 ||     ||
 ```
-I'm a first-year student studying Computer Science and Data Science at the University of Canterbury. 
+I'm a first-year student studying Computer Science and Statistics at the University of Canterbury. 
 
 
-- I do full-stack and silly web-testing stuff. 
+- I test software and do full-stack. 
 - Proficient in Python, experienced in TypeScript, Java, SQL and learning C++ and Go.
 - Unrelated, but I touch grass and volunteer in a few organisations.
 
