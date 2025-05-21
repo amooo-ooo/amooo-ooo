@@ -1,22 +1,10 @@
-# Greetings, fellow wanderer!
-```woah, woah, what are you looking for? you've gone too far 
-~
-> cowsay "I'm Amor"
- ___________
-< I'm Amor! >
- -----------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
-I'm a first-year student studying Computer Science and Statistics at the University of Canterbury. 
+# Hi! I'm Amor
+I'm a first-year student studying a BSc Double Major in Computer Science and Statistics at the University of Canterbury. 
 
 
 - I test software and do full-stack. 
 - Proficient in Python, experienced in TypeScript, Java, SQL and learning C++ and Go.
-- Unrelated, but I touch grass and volunteer in a few organisations.
+- I volunteer in a few organisations.
 
 
 <!--
