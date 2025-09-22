@@ -2,10 +2,9 @@
 I'm a first-year student studying a BSc Double Major in Computer Science and Statistics at the University of Canterbury. 
 
 
-- I test software and do full-stack. 
-- Proficient in Python, experienced in TypeScript, Java, SQL and learning C++ and Go.
-- I volunteer in a few organisations.
-
+- I do everything.
+- Proficient in Python, experienced in TypeScript, C, Java, SQL and learning C++ and Go.
+- I volunteer in organisations.
 
 <!--
 <img src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/python.svg" align="left" width=30>
