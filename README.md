@@ -1,8 +1,6 @@
-I'm a first-year student studying a BSc Double Major in Computer Science and Statistics at the University of Canterbury. 
+I'm a penultimate-year student studying a BSc Double Major in Computer Science and Statistics at the University of Canterbury. 
 
-- I do everything.
-- I volunteer in organisations.
-- Proficient in Python, experienced in TypeScript, C, Java, SQL and learning Go.
+- Proficient in Python, TypeScript, experienced in C, Java, SQL and learning Rust.
 
 <!--
 <img src="https://raw.githubusercontent.com/amooo-ooo/MIcons/main/src/python.svg" align="left" width=30>
